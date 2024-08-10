@@ -1,10 +1,7 @@
-# Project Title
-    User name greeting app
-
+#  User name greeting app
+   
 ## Description
     To create a simple user Name greeting and Random color generator by using javaScript DOM concepts
-
-<br>
 
 ## Demo
 
